@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Requirements
+
+- An entry should be 10 digits
+- It is NOT necessary to validate whether the first three digits are a valid area code, they can be any digit
+- After entry, the numbers should be displayed in the format “(nnn) nnn-nnnn”
+- Any new entry should appear at the top of the list
+- The user should be able to rearrange the order of the items in the list, either by means of UI controls, or drag/drop of the entries.
 
 ## Available Scripts
 
